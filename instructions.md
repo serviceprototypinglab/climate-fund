@@ -16,3 +16,7 @@ formatted table)
 Use this:
 
 - https://github.com/tomroy/mdtable2csv
+
+# Some background reading...
+
+- https://www.swissinfo.ch/eng/environmental-protection_parliament-rejects-proposal-to-tax-plane-tickets/44609546
