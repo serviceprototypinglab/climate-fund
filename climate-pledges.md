@@ -1,5 +1,6 @@
 | #who | where           | when     | howmuch(chf rounded to hundreds) | percentage | voluntary-carbontax-pledge(chf) |
 |------|-----------------|----------|----------------------------------|------------|---------------------------------|
+| spio | spain           | 2019     | 400                              | 4          | 16                              |
 | murp | Dublin/Brussels | Nov 2018 | 300                              | 3          | 9                               |
 | spio | india           | 2018     | 1500                             | 1          | 15                              |
 | spio | india           | 2018     | 1500                             | 1          | 15                              |
