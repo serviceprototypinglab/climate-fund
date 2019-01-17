@@ -4,8 +4,8 @@
 | spio | uae             | 2019     | 600                              | 4          | 24                              |
 | spio | spain           | 2019     | 400                              | 4          | 16                              |
 | murp | Dublin/Brussels | Nov 2018 | 300                              | 3          | 9                               |
-| spio | india           | 2018     | 1500                             | 1          | 15                              |
-| spio | russia          | 2018     | 600                              | 1          | 6                               |
+| spio | india           | 2018     | 1500                             | 4          | 60                              |
+| spio | russia          | 2018     | 600                              | 4          | 24                              |
 | alam | uae             | 2018     | 660                              | 3          | 20                              |
 
 
