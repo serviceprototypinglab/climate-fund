@@ -1,5 +1,6 @@
 | #who | where           | when     | howmuch(chf rounded to hundreds) | percentage | voluntary-carbontax-pledge(chf) | stage         |
 |------|-----------------|----------|----------------------------------|------------|---------------------------------|---------------|
+| spio | finland         | 2019     | 200                              | 4          | 8                               | pledged       |
 | spio | new zealand     | 2019     | 1100                             | 4          | 44                              | pledged       |
 | spio | estonia         | 2019     | 400                              | 4          | 16                              | pledged       |
 | spio | czech           | 2019     | 200                              | 4          | 8                               | compensated   |
