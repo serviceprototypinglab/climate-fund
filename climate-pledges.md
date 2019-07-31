@@ -1,5 +1,8 @@
 | #who | where           | when     | howmuch(chf rounded to hundreds) | percentage | voluntary-carbontax-pledge(chf) | stage         |
 |------|-----------------|----------|----------------------------------|------------|---------------------------------|---------------|
+| harh | madrid	/ sept	 | 2019     | 200			       | 4	    | 8				      | pledged	      |
+| harh | athens		 | 2019	    | 200			       | 4	    | 8				      | pledged	      |
+| harh | madrid / jan	 | 2019	    | 300			       | 4	    | 12			      | pledged	      |
 | pang | dagstuhl        | 2019     | 300                              | 4          | 12                              | pledged       |
 | pang | cyprus          | 2019     | 300                              | 4          | 12                              | pledged       |
 | spio | finland         | 2019     | 200                              | 4          | 8                               | pledged       |
