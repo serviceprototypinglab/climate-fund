@@ -1,5 +1,7 @@
 | #who | where           | when     | howmuch(chf rounded to hundreds) | percentage | voluntary-carbontax-pledge(chf) | stage         |
 |------|-----------------|----------|----------------------------------|------------|---------------------------------|---------------|
+| spio | greece		 | 2020     | 400			       | 4          | 16                              | pledged       |
+| spio | brazil		 | 2020     | 900			       | 4          | 36                              | pledged       |
 | spio | uae		 | 2019     | 600			       | 4          | 24                              | pledged       |
 | harh | madrid	/ sep	 | 2019     | 200			       | 4	    | 8				      | compensated   |
 | harh | athens		 | 2019	    | 200			       | 4	    | 8				      | compensated   |
